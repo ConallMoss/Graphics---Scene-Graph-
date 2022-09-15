@@ -1,4 +1,4 @@
-# Graphics---Scene-Graph-
+# Graphics: Scene Graph
 Coursework for University Introduction to Graphics Course
 Task: Write code from organising and animating a 3D scene using a Scene Graph.
 Scene is then rendered with OpenGL using rasterization
